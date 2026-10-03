@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    text-align: center;
+    background: #f4fff4;
+}
+
+header {
+    padding: 30px;
+    background: lightgreen;
+}
+
+nav {
+    padding: 15px;
+    background: darkgreen;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+}
+
+section {
+    padding: 40px;
+}
+
+.card {
+    display: inline-block;
+    width: 200px;
+    margin: 10px;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px gray;
+}
+
+button {
+    padding: 12px 25px;
+    cursor: pointer;
+}
+
+footer {
+    padding: 20px;
+    background: lightgreen;
+}
